@@ -1,5 +1,5 @@
 # naive-bayes-from-scratch
-Homework assignment to implement a Naive Bayes classifier from scratch. Classifying negative and positive movie reviews
+Implement a Naive Bayes classifier from scratch. Classifying negative and positive movie reviews
 
 In order to run this script (Gordon_HW2.py) successfully, you must first install spaCy using the following commands:
 
